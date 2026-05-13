@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-cpsc440",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
