@@ -24,10 +24,18 @@
               "RelativeDocumentMoniker": "HelloWorld.cpp",
               "ToolTip": "C:\\Users\\level\\source\\repos\\impzay\\cpsc440\\Lab1\\HelloWorld.cpp",
               "RelativeToolTip": "HelloWorld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-12T20:43:33.34Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
